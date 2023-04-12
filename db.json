@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "first_name": "Maria",
+      "last_name": "Lopez",
+      "age": "22",
+      "company": "LCM.SA",
+      "email": "Correo3@correo.com",
+      "phone_number": "53554261",
+      "notes": "Uwu",
+      "id": 1
+    }
+  ]
+}
